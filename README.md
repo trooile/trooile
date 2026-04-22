@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com **anos de experiência** no desenvolvimento e sustentação de sistemas ERP para operações de e-commerce. Atuação em sistemas de alta criticidade, foco em qualidade de código e entrega contínua de valor ao negócio.
+Desenvolvedor com **anos de experiência** no desenvolvimento e sustentação de sistemas ERP para operações de e-commerce. Atuação em sistemas de alta criticidade, foco em qualidade de código e entrega contínua de valor ao negócio.
 
 - 🔍 Modelagem e otimização de banco de dados **MySQL**
 - 🐛 Análise e resolução de incidentes em **produção** (aplicação e infraestrutura)
